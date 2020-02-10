@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ahmidimohamed12/Nodejs-Expresse/issues"
   },
-  "homepage": "https://github.com/ahmidimohamed12/Nodejs-Expresse#readme"
+  "homepage": "https://github.com/ahmidimohamed12/Nodejs-Expresse#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
